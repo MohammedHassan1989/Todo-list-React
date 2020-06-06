@@ -1,0 +1,11 @@
+.fixed-bottom-par {
+  position: absolute;
+  top: 10%;
+  left: 90%;
+  /* font-size: 80px; */
+  color: rgb(47, 177, 103);
+}
+.fixed-bottom-par:hover {
+  color: rgb(26, 124, 69);
+  cursor: pointer;
+}
